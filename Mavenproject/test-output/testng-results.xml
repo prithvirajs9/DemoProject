@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="2" passed="2">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="8091" started-at="2018-11-25T10:21:40Z" finished-at="2018-11-25T10:21:48Z">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="8091" started-at="2018-11-25T10:21:40Z" finished-at="2018-11-25T10:21:48Z">
+      <class name="mavenmercury.Mavenproject.MercuryMavenTest">
+        <test-method status="PASS" signature="open_browser()[pri:0, instance:mavenmercury.Mavenproject.MercuryMavenTest@29774679]" name="open_browser" is-config="true" duration-ms="15431" started-at="2018-11-25T10:21:25Z" finished-at="2018-11-25T10:21:40Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- open_browser -->
+        <test-method status="PASS" signature="enterApplicationURL()[pri:0, instance:mavenmercury.Mavenproject.MercuryMavenTest@29774679]" name="enterApplicationURL" is-config="true" duration-ms="3063" started-at="2018-11-25T10:21:40Z" finished-at="2018-11-25T10:21:43Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- enterApplicationURL -->
+        <test-method status="PASS" signature="maximize_browser()[pri:1, instance:mavenmercury.Mavenproject.MercuryMavenTest@29774679]" name="maximize_browser" duration-ms="1310" started-at="2018-11-25T10:21:43Z" finished-at="2018-11-25T10:21:45Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- maximize_browser -->
+        <test-method status="PASS" signature="loginwithvaliddetails()[pri:2, instance:mavenmercury.Mavenproject.MercuryMavenTest@29774679]" name="loginwithvaliddetails" duration-ms="3598" started-at="2018-11-25T10:21:45Z" finished-at="2018-11-25T10:21:48Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginwithvaliddetails -->
+      </class> <!-- mavenmercury.Mavenproject.MercuryMavenTest -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
